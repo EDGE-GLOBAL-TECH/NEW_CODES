@@ -1,0 +1,2 @@
+gunicorn backend.wsgi:application --chdir backend
+
